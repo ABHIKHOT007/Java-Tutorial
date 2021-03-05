@@ -1,4 +1,9 @@
 # Java-Tutorial
+Java Was invented by the Sun-microsystem the actual working on the language began in 1991.
+
+https://en.wikipedia.org/wiki/Java_(programming_language)
+
+
 Java has been one of the most popular progemming language for many years.
 Java is Objexct Oriented programming language,But java does support the premitive data types sch as int, char etc.
 Java syntax is similar to the c/c++.Some differenc is java does not use the low level programming functionalities like pointers,also java codes are always written in the form of classess and objects.
